@@ -1,5 +1,7 @@
 # BrechoDaBarbieOFC
 
+Integrantes: Flávia Morgado e Isabela de Oliveira 
+
 O aplicativo "Brechó da Barbie" tem intuito a conscientização sobre a sustentabilidade. O aplicativo é um Projeto de sustentabilidade com intuito a conservar o planeta, onde as roupas são os principais lixos acumulados. Com esse projeto vamos te ajuda a não jogar sua roupa bem conservada no lixo e sim doa-lá ou vende-lá. Para exibirmos essas informações vamos abordar os seguintes tópicos: "porque doar roupas", "como doar" e "onde doar". 
 Também trabalhamos com ideias para incentivar as pessoas a doarem roupas, um desses métodos é quanto mais e em melhor qualidade de roupa você doar mais pontos você ganhará; e você acumulará esses pontos até que ganhe um cupom de desconto para comprar em algum dos nossos brechós associados.
 
