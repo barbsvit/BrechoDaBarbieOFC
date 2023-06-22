@@ -30,4 +30,5 @@ public class Perfil extends AppCompatActivity {
        Intent intent = new Intent(this, Descontos.class);
        startActivity(intent);
     }
+
 }

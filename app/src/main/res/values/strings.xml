@@ -56,7 +56,7 @@
     //Active Descontos
     <string name="txtdescontos">DESCONTOS</string>
     <string name="txtpontosdesc"> Pontos: 150</string>
-    <string name="txtdescricao"> Selecione o cupom e troque de acordo com os pontos necessarios </string>
+    <string name="txtdescricao"> Veja seus cupons e troque de acordo com os pontos necessarios </string>
     <string name="mapa"> R. Guaipá, 678 - Vila Leopoldina, São Paulo - SP, 05089-000</string>
 
 </resources>
