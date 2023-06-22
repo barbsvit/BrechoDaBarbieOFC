@@ -9,7 +9,7 @@ Após essa tela é possível que o usuário navegue livremente pelas outras tela
 Na tela "Doar" é onde é abordado os tópicos ditos à cima, assim conscientizando o usuário sobre a importancia de doar. 
 Na tela "Login" é onde o usuário poderá se logar no app e após se logar ele será direcionado a tela de perfil, caso o usuário não tenha um login ele poderá se cadastrar apertando no botão "cadastrar-se" que irá direciona-lo a tela "Cadastro".
 Na tela "Cadastro" é onde o usuário poderá se cadastrar no app e após se logar ele será direcionado a tela de perfil.
-Na tela "perfil" é onde o usuário consegue ter acesso aos seus dados e ver seus possívies cupons de desconto, ele consegue ter caesso clicando no botão "descontos".
+Na tela "perfil" é onde o usuário consegue ter acesso aos seus dados e ver seus possívies cupons de desconto, ele consegue ter acesso clicando no botão "descontos".
 Na tela "Descontos" é onde é exibido os cupons de descontos do usuários, os que ele tem acesso e os ele não tem.
 
 
