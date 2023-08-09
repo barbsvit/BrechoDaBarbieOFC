@@ -40,3 +40,8 @@ Ex: 1 - blusa / 2 - sapatos.
 2 - semi-novo e sem furos / R$10,00 / 10 pontos.
 
 Adicionar sensores de notificações, para que o usúario saiba que tem novos descontos limitados no app.
+
+---
+## Diagrama de Classe
+
+![DiagramdeClasse](https://github.com/IsabelaESC/BrechoDaBarbieOFC/assets/128037931/c35fc9a9-5b09-4955-bd85-5d40bfe0a409)
