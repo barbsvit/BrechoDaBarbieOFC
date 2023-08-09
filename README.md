@@ -2,7 +2,7 @@
 
 *Integrantes: Isabela de Oliveira e Jeferson Ayres*
 
-O aplicativo "Brechó da Barbie" tem intuito a conscientização sobre a sustentabilidade. O app é um Projeto de sustentabilidade com intuito a conservar o planeta, onde as roupas são os principais lixos acumulados. Com esse projeto vamos ter de ajuda a não jogar sua roupa bem conservada no lixo e sim doa-lá ou vende-lá. Para exibirmos essas informações vamos abordar os seguintes tópicos: "porque doar roupas", "como doar" e "onde doar". 
+O aplicativo "Brechó da Barbie" tem intuito a conscientização sobre a sustentabilidade. O app é um Projeto de sustentabilidade com intuito a conservar o planeta, onde as roupas são os principais lixos acumulados. Com esse projeto vamos ter de ajuda a não jogar sua roupa bem conservada no lixo e sim doa-lá ou vende-lá. Para exibirmos essas informações vamos abordar os seguintes tópicos: "porque doar", "como doar" e "onde doar". 
 
 Também trabalhamos com ideias para incentivar as pessoas a doarem roupas, um desses métodos é quanto mais e em melhor qualidade de roupa você doar, mais pontos você ganhará; Acumulando esses pontos poderá escolher um cupom de desconto para comprar em algum dos nossos brechós associados como: Riachuelo, c&a e etc.
 
@@ -33,5 +33,11 @@ Na tela de "Descontos" adicionará muito mais descontos para lojas de roupas e d
 
 Na tela de "Descontos" os pontos serão utilizados juntamente com os descontos, obtendo botão de escolha do desconto de acordo com a pontuação adquirida.
 
-Queremos adicionar sensores de notificações, para que o usúario saiba que tem novos descontos limitados no app.
+Adicionara uma nova activity onde conterá tabelas que informara os requisistos das peças, a descrição do estado delas, seus valores (R$) e a quantidade de pontos de acordo desses requisitos. 
+Ex: 1 - blusa / 2 - sapatos.
+
+1 - bom estado, sem nenhum furo e sem desgaste / R$20,00 / 15 pontos.
+2 - semi-novo e sem furos / R$10,00 / 10 pontos.
+
+Adicionar sensores de notificações, para que o usúario saiba que tem novos descontos limitados no app.
 
