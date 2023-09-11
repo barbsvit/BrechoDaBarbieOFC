@@ -40,4 +40,9 @@ public class Doar extends AppCompatActivity {
         Intent mapIntent = new Intent(Intent.ACTION_VIEW, location);
         startActivity(mapIntent);
     }
+    public void Video(View w) {
+        Uri uri = Uri.parse("https://www.youtube.com/watch?v=MYL2iQh7apY&ab_channel=DiicasdaFee");
+        Intent it = new Intent(Intent.ACTION_VIEW, uri);
+        startActivity(it);
+    }
 }
