@@ -245,7 +245,7 @@
         app:layout_constraintHorizontal_bias="0.817"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.456"
+        app:layout_constraintVertical_bias="0.462"
         tools:ignore="VisualLintOverlap" />
 
     <TextView
@@ -293,7 +293,7 @@
         app:layout_constraintHorizontal_bias="0.88"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.551"
+        app:layout_constraintVertical_bias="0.557"
         tools:ignore="TextSizeCheck,VisualLintOverlap" />
 
     <ImageView

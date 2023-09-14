@@ -1,12 +1,13 @@
 package com.example.ofc_barbie_brecho;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 public class Cadastro extends AppCompatActivity {
+    public static final String NOME_CADASTRO = "com.example.ofc_barbie_brecho";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
