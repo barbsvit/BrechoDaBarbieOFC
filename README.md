@@ -40,7 +40,10 @@ Ex: 1 - blusa / 2 - sapatos.
 2 - semi-novo e sem furos / R$10,00 / 10 pontos.
 
 Adicionar sensores de notificações, para que o usúario saiba que tem novos descontos limitados no app.
-
+Possíveis novas adições: 
+	Adição de sensor de localização
+	Mensagem de notificação pop-up
+	Action_Edit pra edição 
 ---
 ## Diagrama de Classe
 
