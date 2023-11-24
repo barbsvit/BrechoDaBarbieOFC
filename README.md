@@ -39,9 +39,20 @@ Ex: 1 - blusa / 2 - sapatos.
 1 - bom estado, sem nenhum furo e sem desgaste / R$20,00 / 15 pontos.
 2 - semi-novo e sem furos / R$10,00 / 10 pontos.
 
-Adicionar sensores de notificações, para que o usúario saiba que tem novos descontos limitados no app.
+
+**Alterações feitas no quarto bimestre**
+
+Na tela Doar agora há um sensor de localização que, após calcular em que lugar o usuário se encontra, direcionara o mesmo para o maps onde haverá a localizaçãos dos brechós mais próximos para a doação das roupas.
+O aplicativo também solicita a permissão para uso da localização, sendo possível autorizar de acordo com as configurações do aparelho móvel em questão
+
+
+**Vídeo do código funcionando em um telemóvel**
+
+[![Appfuncionando](barbsvit/BrechoDaBarbieOFC/funcionamentodoapp.mp4)](funcionamentodoapp.mp4)
 
 ---
 ## Diagrama de Classe
 
 ![DiagramdeClasse](https://github.com/IsabelaESC/BrechoDaBarbieOFC/assets/128037931/c35fc9a9-5b09-4955-bd85-5d40bfe0a409)
+
+
